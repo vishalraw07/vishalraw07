@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Full stack game development
+
 📫 How to reach me: vishalraw07.co.in@gmail.com
-💬 About me: I have done B.tech(Honours) in computer science engineering.I have been a QA Tester @KeywordsStuidos and Tested some major AAA games like Gotham Knights, suicide squad: kill the justice league, and sniper elite 5 DLCs.
+
+💬 About me: I have done B.tech(Honours) in computer science engineering.Former QA Tester @KeywordsStuidos and Tested some major AAA games like Gotham Knights, suicide squad: kill the justice league, and sniper elite 5 DLCs.
