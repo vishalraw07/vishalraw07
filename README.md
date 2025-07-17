@@ -1,21 +1,65 @@
-A passionate game developer
+# Hi there 👋 I’m Vishal Rawat
 
-<!--
-**vishalraw07/vishalraw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer | Multiplayer Systems  
+💻 C# · C++ · Photon Fusion · MVC · Object Pooling · State Machines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently learning Full stack game development
+## 🚀 About Me
+- Passionate game developer with 1+ years of Unity experience  
+- Built a Multiplayer game(Battle Tanks) using Photon Fusion 2  
+- Applied design patterns (MVC, Singleton, Observer, State Machines) to optimize code  
+- Former QA tester for AAA titles (Sniper Elite 5 DLC, Gotham Knights, Suicide Squad) on PS5/Xbox Series X/PC 
 
-📫 How to reach me: vishalraw07.co.in@gmail.com
+---
 
-💬 About me: I have done B.tech(Honours) in computer science engineering.Former QA Tester @KeywordsStuidos and Tested some major AAA games like Gotham Knights, suicide squad: kill the justice league, and sniper elite 5 DLCs.
+## 🔧 Tech & Tools
+
+| Game Engines      | Networking      | Languages         | Tools & Testing       |
+|-------------------|-----------------|-------------------|-----------------------|
+| Unity             | Photon Fusion 2 | C#, C++, C, SQL   | Git · GitHub · Jira   |
+|                   |                 |                   | TestRail · Slack      |
+
+---
+
+## 📂 Featured Projects
+
+### 🛡️ Battle Tanks Multiplayer [Work in progress] 
+![Unity](https://img.shields.io/badge/Unity-2022.1-blue)  
+![Photon Fusion](https://img.shields.io/badge/Photon%20Fusion-2-green)  
+- **Online, real‑time 10 Player DeathMatch mode** built with Unity and Photon Fusion  
+- Player matchmaking lobby, room creation/joining, and seamless networked sync of tank positions, health, and projectiles  
+- Implemented client‑side prediction and server‑authoritative reconciliation to minimize latency and ensure smooth gameplay   
+- Integrated in‑game scoreboard UI for competitive play  
+- Optimized network traffic by batching RPCs and compressing state updates, reducing bandwidth by 40%  
+
+### 🧟 Zombie Rush  
+![Unity](https://img.shields.io/badge/Unity-2021.3-blue)  
+- 3D action‑survival shooter  
+- Implemented player movement, isometric aiming, and save/load system  
+- Scripted enemy AI with custom state machine and object pooling  
+
+🔗 [PlayStore](https://play.google.com/store/apps/details?id=com.JabszGamingStudios.ZombieRush&pcampaignid=web_share)
+🔗 [YouTube](https://youtu.be/Sn9yWbdXQt0?si=-ZOGlr_JlIpNyeZG)
+
+---
+
+### 🛡️ Battle Tanks 3D[SinglePlayer]  
+![Unity](https://img.shields.io/badge/Unity-2022.1-blue)  
+- Full‑stack tank combat game  
+- Tank physics, projectile pooling, health & UI systems  
+- Reduced build size by 25% through asset optimization  
+
+🔗 [Itch.io Demo](https://vishal-rawat.itch.io/battle-tank)
+
+--- 
+
+## 📫 Connect with Me
+
+- ✉️ Email: [vishalraw07.co.in@gmail.com](mailto:vishalraw07.co.in@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/vishalrawat](https://www.linkedin.com/in/vishal-rawat-1b243b12a/)  
+- 🕹️ Itch.io: [vishal-rawat.itch.io](https://vishal-rawat.itch.io)  
+
+---
+
+  
